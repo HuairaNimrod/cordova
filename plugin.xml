@@ -8,8 +8,8 @@
     <license>MIT</license>
 
     <keywords>cordova,android,toast,message,alert</keywords>
-    <repo>https://github.com/HuairaNimrod/cordova.git</repo>
-    <issue>https://github.com/HuairaNimrod/cordova.git</issue>
+    <repo>https://github.com/HuairaNimrod/cordova</repo>
+    <issue>https://github.com/HuairaNimrod/cordova</issue>
   
     <engines>
         <engine name="cordova" version=">=3.0.0"/>

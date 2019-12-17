@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HuairaNimrod/cordova.git"
+    "url": "git+https://github.com/HuairaNimrod/cordova.git"
   },
   "keywords": [
     "Toast",
@@ -26,10 +26,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Nimrod Huaira",
+  "author": "Stanley Idesis <stan.idesis@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HuairaNimrod/cordova.git"
+    "url": "https://github.com/HuairaNimrod/cordova"
   },
-  "homepage": "https://github.com/HuairaNimrod/cordova.git"
+  "homepage": "https://github.com/HuairaNimrod/cordova"
 }
